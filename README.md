@@ -74,7 +74,7 @@ The conclusion: South was never actually losing money. The original numbers were
 
 - `Orders.xlsx` — raw order-level data
 - `Users.xlsx` — region-to-manager mapping
-- `Sales_Performance_Profitability.pbix` — the Power BI report
+- `Sales Performance & Profitability.pbix` — the Power BI report
 
 ## 📌 Key Takeaway
 
